@@ -1,5 +1,5 @@
 # AI-Resume-Scanner:
-##app.py:
+# app.py:
 ```
 import streamlit as st
 import pandas as pd
@@ -198,13 +198,15 @@ if uploaded_file is not None:
             "text/csv"
         )
 ```
-##requirements.txt:
+# requirements.txt:
+```
 streamlit
 pandas
 numpy
 plotly
 groq
 python-dotemv
+```
 
 
 
