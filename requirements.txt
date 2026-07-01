@@ -4,3 +4,4 @@ numpy
 plotly
 groq
 python-dotenv
+PyPDF2
