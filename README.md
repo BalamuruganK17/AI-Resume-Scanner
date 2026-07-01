@@ -205,7 +205,7 @@ pandas
 numpy
 plotly
 groq
-python-dotemv
+python-dotenv
 ```
 
 
